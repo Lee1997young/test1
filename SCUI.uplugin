@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "2.6",
+	"FriendlyName": "SCUI",
+	"Description": "",
+	"Category": "Scrat",
+	"CreatedBy": "Scrat",
+	"CreatedByURL": "",
+	"DocsURL": "https://www.bilibili.com/video/BV1gf4y1q7z5",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "SCUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
